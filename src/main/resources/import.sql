@@ -22,3 +22,4 @@ INSERT INTO equipo(NOMBRE, LIGA, PAIS) VALUES ('SL Benfica', 'Primeira Liga', 'P
 INSERT INTO equipo(NOMBRE, LIGA, PAIS) VALUES ('Besiktas JK', 'Süper Lig', 'Turquía');
 INSERT INTO equipo(NOMBRE, LIGA, PAIS) VALUES ('SSC Napoli', 'Serie A', 'Italia');
 INSERT INTO equipo(NOMBRE, LIGA, PAIS) VALUES ('Atlético Madrid', 'La Liga', 'España');
+INSERT INTO usuarios(NOMBRE, USUARIO, PASSWORD, STATUS, ROLE) VALUES ('test', 'test', '12345', 'true', 'user');
